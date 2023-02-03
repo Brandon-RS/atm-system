@@ -1,6 +1,6 @@
 # ATM System
 
-This is and ATM system build in node with ts.
+This is an ATM system build in Node.js with TS.
 
 ## Run
 
